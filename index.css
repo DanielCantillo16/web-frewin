@@ -1,0 +1,31 @@
+*{
+    font-family: 'Passion One', cursive;
+}
+header{
+    background-color: brown;
+    color: rgb(21, 22, 21);
+    text-align: center;
+}
+.articulo1{
+    background-color: black;
+    color: white;
+}
+.articulo2{
+    width: 600px;
+    
+    background-color: crimson;
+    height: 400px;
+}
+.imaguen1{
+    position: relative;
+    left: 700px;
+    bottom: 260px;
+}
+.p{
+    background-color: cornflowerblue;
+}
+footer{
+    background-color: black;
+    color: wheat;
+    text-align: center;
+}
